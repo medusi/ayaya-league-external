@@ -206,5 +206,3 @@ Every user script is located into: `/scripts/` (on prebuilt version `/resources/
 
 I'm currently creating a website to publish a very detailed documentation on it.
 For now stick to examples and use intellisense, for any question or doubt join our discord :3
-
-
